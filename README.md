@@ -71,3 +71,17 @@ grid.add_legend()
 
 
 # OUPUT
+![oimg1 (1)](https://user-images.githubusercontent.com/94288340/173876486-f2040c3f-170e-4c75-9e0b-11f34ff7edb8.png)
+![oimg1 (2)](https://user-images.githubusercontent.com/94288340/173876562-948ef415-994f-452b-8c1a-578679922f6b.png)
+![oimg1 (3)](https://user-images.githubusercontent.com/94288340/173876609-0da3ceb4-8a58-48cc-9db5-d095ebf1b88b.png)
+![oimg1 (4)](https://user-images.githubusercontent.com/94288340/173876661-faa99dbe-59da-4bfe-8f01-2f47adfee9d4.png)
+![oimg1 (5)](https://user-images.githubusercontent.com/94288340/173876700-1ac1a996-be91-4f88-b971-3ddce2eb848f.png)
+![oimg1 (6)](https://user-images.githubusercontent.com/94288340/173876730-3bbfb388-84c0-414b-b9bd-1b9843a1b780.png)
+![oimg1 (7)](https://user-images.githubusercontent.com/94288340/173876823-dd47af16-295e-411a-b328-85e0a3712255.png)
+![oimg1 (8)](https://user-images.githubusercontent.com/94288340/173876846-c49a53b2-d055-4b19-9868-d49854dd9af1.png)
+![oimg1 (9)](https://user-images.githubusercontent.com/94288340/173877050-a25591f3-be37-48a9-816e-4dda84603eb9.png)
+![oimg1 (10)](https://user-images.githubusercontent.com/94288340/173876980-ea59379c-025f-41fa-97a0-4246fb7e212d.png)
+# Result:
+Data Visualization on a complex dataset and save the data to a file has been performed
+
+
